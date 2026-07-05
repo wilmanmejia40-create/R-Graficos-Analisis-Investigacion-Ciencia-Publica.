@@ -1,5 +1,4 @@
 # R-Graficos-Analisis-Investigacion-Ciencia-Publica.
-# R para Gráficos, Análisis e Investigación en Ciencia Pública
 
 ¡Bienvenido/a al repositorio! Este espacio está dedicado al desarrollo de scripts en **R** enfocados en el análisis estadístico, visualización de datos y procesamiento de información para proyectos de investigación científica.
 
