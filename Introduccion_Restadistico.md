@@ -1,26 +1,118 @@
-# R-Graficos-Analisis-Investigacion-Ciencia-Publica.
+# R - Análisis, Visualización de Datos e Investigación Científica
 
-¡Bienvenido/a al repositorio! Este espacio está dedicado al desarrollo de scripts en **R** enfocados en el análisis estadístico, visualización de datos y procesamiento de información para proyectos de investigación científica.
+Bienvenido a este repositorio.
 
-El objetivo es centralizar flujos de trabajo reproducibles que sirvan de apoyo para la toma de decisiones, análisis ecológicos o publicaciones de ciencia abierta.
+Aquí encontrarás una colección de scripts desarrollados en **R** para el análisis estadístico, la visualización de datos y el procesamiento de información aplicada a proyectos de investigación científica, monitoreo ambiental y análisis geoespacial.
 
-## 📂 Estructura del Repositorio
+El propósito es proporcionar flujos de trabajo reproducibles que faciliten el análisis de datos, la generación de gráficos de alta calidad y el desarrollo de investigaciones bajo principios de ciencia abierta.
 
-Para mantener el orden, el proyecto se organiza de la siguiente manera:
+---
 
-*   **`scripts/`**: Código fuente en R (`.R` o `.Rmd`) organizado por tipo de análisis.
-*   **`data/`**: Datos crudos o procesados utilizados en los ejemplos (o enlaces para descargarlos si son muy pesados).
-*   **`outputs/`**: Gráficos generados (mapas, plots de `ggplot2`, tablas formateadas).
-*   **`docs/`**: Notas metodológicas o manuales breves.
+## Objetivos
 
-## 📊 Contenido Actual e Introducción
+- Desarrollar análisis estadísticos reproducibles.
+- Crear visualizaciones profesionales para publicaciones e informes.
+- Automatizar procesos de análisis de datos.
+- Compartir herramientas útiles para investigadores, estudiantes y profesionales.
+- Promover el uso de R en proyectos de investigación y gestión ambiental.
 
-*   **`Restadístico.md`**: Documentación inicial sobre pruebas estadísticas y flujos de análisis en R.
+---
 
-## 🛠️ Requisitos y Librerías Comunes
+## Estructura del repositorio
 
-Para replicar los análisis de este repositorio, se suelen utilizar los siguientes paquetes de R:
+```
+R-Graficos-Analisis-Investigacion-Ciencia/
+│
+├── scripts/          # Scripts en R
+├── data/             # Datos de ejemplo o enlaces de descarga
+├── outputs/          # Gráficos, tablas y resultados
+├── docs/             # Documentación y notas metodológicas
+└── README.md
+```
+
+### Descripción de carpetas
+
+**scripts/**
+
+Contiene los scripts desarrollados en R para diferentes tipos de análisis, incluyendo:
+
+- Estadística descriptiva
+- Estadística inferencial
+- Visualización de datos
+- Automatización de análisis
+- Procesamiento de datos
+- Análisis espaciales
+- Elaboración de gráficos científicos
+
+**data/**
+
+Incluye conjuntos de datos de ejemplo o enlaces para su descarga cuando el tamaño impide almacenarlos en GitHub.
+
+**outputs/**
+
+Almacena los productos generados por los scripts:
+
+- Gráficos
+- Mapas
+- Tablas
+- Reportes
+- Figuras para publicaciones
+
+**docs/**
+
+Contiene documentación metodológica, manuales y referencias utilizadas durante el desarrollo de los análisis.
+
+---
+
+## Contenido actual
+
+Actualmente el repositorio incluye:
+
+- **Restadistico.md**
+  - Introducción a pruebas estadísticas.
+  - Conceptos básicos de análisis en R.
+  - Ejemplos de flujo de trabajo.
+
+Conforme avance el proyecto se incorporarán nuevos scripts y metodologías.
+
+---
+
+## Librerías principales
+
+La mayoría de los scripts utilizan los siguientes paquetes:
 
 ```r
-# Instala las librerías principales si no las tienes:
-install.packages(c("tidyverse", "sf", "summarytools", "knitr"))
+install.packages(c(
+  "tidyverse",
+  "ggplot2",
+  "sf",
+  "terra",
+  "summarytools",
+  "knitr",
+  "readxl",
+  "dplyr",
+  "lubridate"
+))
+```
+
+---
+
+## Áreas de aplicación
+
+Los scripts están orientados a aplicaciones como:
+
+- Ecología
+- Ciencias Forestales
+- Biología
+- Gestión Ambiental
+- Sistemas de Información Geográfica (SIG)
+- Monitoreo de recursos naturales
+- Ciencia de datos
+- Investigación académica
+
+---
+**Autor**
+
+Wilman Eliud Mejía Velásquez
+
+Biólogo | Sistemas de Información Geográfica (SIG) | Análisis de Datos en R | Investigación Ambiental
