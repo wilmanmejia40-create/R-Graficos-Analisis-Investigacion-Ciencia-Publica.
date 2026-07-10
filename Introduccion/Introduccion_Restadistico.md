@@ -1,4 +1,6 @@
 # R - Análisis, Visualización de Datos e Investigación Científica
+Wilman Eliud Mejía Velásquez
+Biólogo | Sistemas de Información Geográfica (SIG) | Análisis de Datos en R | Investigación Ambiental
 
 Bienvenido a este repositorio.
 
@@ -110,9 +112,3 @@ Los scripts están orientados a aplicaciones como:
 - Ciencia de datos
 - Investigación académica
 
----
-**Autor**
-
-Wilman Eliud Mejía Velásquez
-
-Biólogo | Sistemas de Información Geográfica (SIG) | Análisis de Datos en R | Investigación Ambiental
