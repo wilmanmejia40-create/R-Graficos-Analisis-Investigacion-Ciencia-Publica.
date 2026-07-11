@@ -1,5 +1,3 @@
-# R-Graficos-Analis-Investigacion-Ciencia-Publica
-
 ## Mi Repositorio de Aprendizaje y Scripts
 
 ¡Bienvenido! Aquí encontrarás guías y scripts organizados para el análisis de datos.
