@@ -14,9 +14,9 @@
 
 ### 📘 1. Fundamentos e Introducción
 Guías paso a paso para configurar tu entorno de trabajo e iniciar en el análisis de datos.
-* [**Guía 01:** Introducción y Restauración de Entornos](./Introducción/1.%20Introduccion_Resta...)
-* [**Guía 02:** Instalación Correcta de R y RStudio](./Introducción/2.%20Como%20instalo%20R)
-* [**Guía 03:** Importación de Datasets y Primeros Pasos](./Introducción/3.%20Importar%20datos%20a%20R)
+- [Guía 01](./Introduccion/01_introduccion_restauracion.md)
+- [Guía 02](./Introduccion/02_instalacion_r.md)
+- [Guía 03](./Introduccion/03_importar_datos.md)
 
 ### 📊 2. Scripts de Análisis Avanzado
 Scripts modulares optimizados para análisis estadístico, manipulación de datos con el ecosistema `tidyverse` y visualizaciones con `ggplot2`.
