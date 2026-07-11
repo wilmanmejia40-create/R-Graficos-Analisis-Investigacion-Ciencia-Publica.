@@ -29,7 +29,36 @@ Scripts modulares optimizados para análisis estadístico, manipulación de dato
 ---
 
 ## 🛠️ Tecnologías y Librerías Utilizadas
-* **Lenguaje Principal:** R (v4.4+)
-* **Manipulación de Datos:** `tidyverse` (`dplyr`, `tidyr`, `readr`)
-* **Visualización:** `ggplot2` (Gráficos listos para publicación en formato APA 7ma edición)
-* **Análisis Espacial:** `sf`, `terra`
+
+Este repositorio emplea herramientas ampliamente utilizadas en ciencia de datos, estadística y análisis espacial con **R**.
+
+| Herramienta | Descripción |
+|-------------|-------------|
+| **Lenguaje** | **R (v4.4+)** para análisis estadístico, visualización y ciencia de datos. |
+| **IDE** | **RStudio** como entorno de desarrollo recomendado. |
+| **Manipulación de Datos** | `tidyverse`, `dplyr`, `tidyr`, `readr`, `stringr`, `lubridate`. |
+| **Visualización** | `ggplot2`, `ggthemes`, `patchwork`, `cowplot` para gráficos científicos y de publicación (APA 7.ª edición). |
+| **Estadística** | `stats`, `rstatix`, `car`, `agricolae`, `broom`. |
+| **Análisis Espacial** | `sf`, `terra`, `stars`, `tmap`, `leaflet`. |
+| **Importación de Datos** | `readxl`, `openxlsx`, `haven`. |
+| **Reportes Reproducibles** | `R Markdown`, `Quarto`, `knitr`. |
+| **Control de Versiones** | Git y GitHub. |
+
+---
+
+### 📦 Principales paquetes utilizados
+
+```r
+library(tidyverse)
+library(ggplot2)
+library(sf)
+library(terra)
+library(readxl)
+library(openxlsx)
+library(rstatix)
+library(car)
+library(patchwork)
+library(knitr)
+```
+
+> **Nota:** No todas las guías utilizan los mismos paquetes. Cada script indica las dependencias necesarias para su ejecución.
