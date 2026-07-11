@@ -7,7 +7,6 @@
 ### Wilman Eliud Mejía Velásquez
 
 | Biálogo | Sistemas de Información Geográfica (SIG) | Análisis de Datos en R | Investigación Ambiental |
-| :---: | :---: | :---: | :---: |
 
 ---
 
