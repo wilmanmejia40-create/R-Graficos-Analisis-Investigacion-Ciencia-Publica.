@@ -1,10 +1,13 @@
-## Mi Repositorio de Aprendizaje y Scripts
+Repositorio dedicado al aprendizaje de **R**, donde encontrarás guías paso a paso, scripts comentados y ejemplos orientados a la investigación científica y el análisis de datos.
 
-¡Bienvenido! Aquí encontrarás guías y scripts organizados para el análisis de datos.
+## Sobre mí
 
-### Wilman Eliud Mejía Velásquez
+**Wilman Eliud Mejía Velásquez**
 
-| Biálogo | Sistemas de Información Geográfica (SIG) | Análisis de Datos en R | Investigación Ambiental |
+🧬 Biólogo  
+🗺️ Especialista en Sistemas de Información Geográfica (SIG)  
+📊 Analista de Datos en R  
+🌱 Investigador Ambiental
 
 ---
 
