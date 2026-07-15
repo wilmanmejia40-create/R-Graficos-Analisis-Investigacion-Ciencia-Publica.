@@ -1,6 +1,6 @@
 # Scripts
 
-* [1. Analisis descriptivos](./01_analisis_descriptivo.R.md)
-* [2. Pruebas normalidad](./02_pruebas_normalidad.R.md)
-* [3. Estadistica Inferencial](./03_estadisitica_interferencial.R.md)
-* [4. Visualización avanzada](./04_visualizaciones_avanzada.R.md)
+* [1. Análisis descriptivos](./01_analisis_descriptivo.R)
+* [2. Pruebas de normalidad](./02_pruebas_normalidad.R)
+* [3. Estadística inferencial](./03_estadistica_inferencial.R)
+* [4. Visualización avanzada](./04_visualizacion_avanzada.R)
