@@ -1,9 +1,4 @@
 # R - Análisis, Visualización de Datos e Investigación Científica
-Wilman Eliud Mejía Velásquez
-Biólogo | Sistemas de Información Geográfica (SIG) | Análisis de Datos en R | Investigación Ambiental
-
-Bienvenido a este repositorio.
-
 Aquí encontrarás una colección de scripts desarrollados en **R** para el análisis estadístico, la visualización de datos y el procesamiento de información aplicada a proyectos de investigación científica, monitoreo ambiental y análisis geoespacial.
 
 El propósito es proporcionar flujos de trabajo reproducibles que faciliten el análisis de datos, la generación de gráficos de alta calidad y el desarrollo de investigaciones bajo principios de ciencia abierta.
