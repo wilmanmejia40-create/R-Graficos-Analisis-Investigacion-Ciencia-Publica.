@@ -22,10 +22,10 @@ Guías paso a paso para configurar tu entorno de trabajo e iniciar en el anális
 
 ### 📊 2. Scripts de Análisis Avanzado
 Scripts modulares optimizados para análisis estadístico, manipulación de datos con el ecosistema `tidyverse` y visualizaciones con `ggplot2`.
-* [**Script 01:** Análisis Exploratorio de Datos (EDA)](./Scripts/01_analis_descriptiv...)
-* [**Script 02:** Pruebas de Normalidad y Supuestos Estadísticos](./Scripts/02_pruebas_normalid...)
-* [**Script 03:** Estadística Inferencial y Modelado](./Scripts/03_estadistica_infere...)
-* [**Script 04:** Visualización Científica Avanzada](./Scripts/04_visualizacion_avan...)
+* [** Análisis Exploratorio de Datos (EDA)**](./Scripts/01_analis_descriptiv...)
+* [**Pruebas de Normalidad y Supuestos Estadísticos**](./Scripts/02_pruebas_normalid...)
+* [**Estadística Inferencial y Modelado**](./Scripts/03_estadistica_infere...)
+* [**Visualización Científica Avanzada**](./Scripts/04_visualizacion_avan...)
 
 ---
 
