@@ -21,11 +21,13 @@ Guías paso a paso para configurar tu entorno de trabajo e iniciar en el anális
 - [Base de Datos disponibles y funcionales en R](./Introduccion/04-Bases-de-Datos-Disponibles-en-R.md)
 
 ### 📊 2. Scripts de Análisis Avanzado
+
 Scripts modulares optimizados para análisis estadístico, manipulación de datos con el ecosistema `tidyverse` y visualizaciones con `ggplot2`.
-* [**Análisis Exploratorio de Datos (EDA)**](./Scripts/01_analis_descriptiv...)
-* [**Pruebas de Normalidad y Supuestos Estadísticos**](./Scripts/02_pruebas_normalid...)
-* [**Estadística Inferencial y Modelado**](./Scripts/03_estadistica_infere...)
-* [**Visualización Científica Avanzada**](./Scripts/04_visualizacion_avan...)
+
+* [**Análisis Exploratorio de Datos (EDA)**](./Scripts/01_analisis_descriptivo.R.md)
+* [**Pruebas de Normalidad y Supuestos Estadísticos**](./Scripts/02_pruebas_normalidad.R.md)
+* [**Estadística Inferencial y Modelado**](./Scripts/03_estadistica_inferencial.R.md)
+* [**Visualización Científica Avanzada**](./Scripts/04_visualizacion_avanzada.R.md)
 
 ---
 
