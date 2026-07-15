@@ -18,6 +18,7 @@ Guías paso a paso para configurar tu entorno de trabajo e iniciar en el anális
 - [Introducción](./Introduccion/01_introduccion_restauracion.md)
 - [Instalación de R y Rstudio](./Introduccion/02_instalacion_r.md)
 - [Importación de Datasets y primeros pasos](./Introduccion/03_importar_datos.md)
+- [Base de Datos disponibles y funcionales en R](./Introduccion/04-Bases-de-Datos-Disponibles-en-R.md)
 
 ### 📊 2. Scripts de Análisis Avanzado
 Scripts modulares optimizados para análisis estadístico, manipulación de datos con el ecosistema `tidyverse` y visualizaciones con `ggplot2`.
